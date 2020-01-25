@@ -15,7 +15,7 @@ The aim of this challenge is to solve a visual question answering (VQA) problem 
 	* **Number of training questions**: 259492
 	* **Number of test questions**: 3000
 
-*Answers (13 possible labels):
+* Answers (13 possible labels):
 	* '0': 0
 	* '1': 1
 	* '10': 2
